@@ -31,6 +31,7 @@ https://github.com/googlesamples
 
 https://design.google.com/resources/#guidelines
 ###Books
+See aboves PDF
 
 ###Blogs & Newsletter
 
