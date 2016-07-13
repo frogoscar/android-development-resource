@@ -1,5 +1,4 @@
-# android_self_training
-My Self-Training Android resources
+# Self-Training Android resources
 
 ###Design
 ####Material Design
