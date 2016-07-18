@@ -33,6 +33,10 @@ https://design.google.com/resources/#guidelines
 ###Books
 See aboves PDF
 
+###Coding
+https://google.github.io/styleguide/javaguide.html
+https://source.android.com/source/code-style.html
+
 ###Blogs & Newsletter
 
 http://android-developers.blogspot.fr/
