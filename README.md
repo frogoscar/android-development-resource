@@ -7,6 +7,8 @@ https://material.google.com
 
 https://developer.android.com/training/material/get-started.html
 
+http://stackoverflow.com/questions/36032177/android-new-bottom-navigation-bar/36033640
+
 ####JustInMind
 
 http://www.justinmind.com/support/quick-tour-get-started-with-justinmind/
