@@ -13,6 +13,8 @@ https://github.com/JakeWharton/ViewPagerIndicator
 
 https://github.com/chrisbanes/Android-PullToRefresh
 
+http://www.jianshu.com/p/dc8c05cf693d
+
 ####JustInMind
 
 http://www.justinmind.com/support/quick-tour-get-started-with-justinmind/
