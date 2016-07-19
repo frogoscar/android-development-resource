@@ -1,6 +1,9 @@
 # Self-Training Android resources
 
 ###Design
+
+https://corner.squareup.com/2014/10/advocating-against-android-fragments.html
+
 ####Material Design
 
 https://material.google.com
