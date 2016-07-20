@@ -56,6 +56,11 @@ https://source.android.com/source/code-style.html
 http://android-developers.blogspot.fr/
 
 http://androidweekly.net/
+
+###Forum
+
+https://www.zhihu.com/question/26417244
+
 ###Tutorials
 
 https://www.raywenderlich.com/122676/introducing-the-android-feast
