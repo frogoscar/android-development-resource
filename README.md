@@ -57,9 +57,11 @@ http://android-developers.blogspot.fr/
 
 http://androidweekly.net/
 
-###Forum
+###Forum & Article
 
 https://www.zhihu.com/question/26417244
+
+http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/
 
 ###Tutorials
 
