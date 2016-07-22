@@ -65,6 +65,8 @@ http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/
 
 ###Tutorials
 
+https://developer.android.com/training/index.html
+
 http://www.vogella.com/tutorials/android.html
 
 https://www.raywenderlich.com/122676/introducing-the-android-feast
