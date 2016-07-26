@@ -4,6 +4,8 @@
 
 https://corner.squareup.com/2014/10/advocating-against-android-fragments.html
 
+http://antonioleiva.com/mvp-android/
+
 ####Material Design
 
 https://material.google.com
