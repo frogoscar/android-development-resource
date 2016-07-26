@@ -49,7 +49,6 @@ https://design.google.com/resources/#guidelines
 See aboves PDF
 
 ###Coding
-https://github.com/pavlospt/Android-Studio-Tips-by-Philippe-Breault/wiki
 
 https://google.github.io/styleguide/javaguide.html
 
@@ -80,3 +79,6 @@ https://commonsware.com/Android/
 https://classroom.udacity.com/courses/ud853
 
 http://xudafeng.github.io/slide/archives/native-in-practice/#/
+
+### Android Studio
+https://github.com/pavlospt/Android-Studio-Tips-by-Philippe-Breault
