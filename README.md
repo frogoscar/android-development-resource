@@ -49,6 +49,8 @@ https://design.google.com/resources/#guidelines
 See aboves PDF
 
 ###Coding
+https://github.com/pavlospt/Android-Studio-Tips-by-Philippe-Breault/wiki
+
 https://google.github.io/styleguide/javaguide.html
 
 https://source.android.com/source/code-style.html
