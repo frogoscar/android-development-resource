@@ -82,3 +82,8 @@ http://xudafeng.github.io/slide/archives/native-in-practice/#/
 
 ### Android Studio
 https://github.com/pavlospt/Android-Studio-Tips-by-Philippe-Breault
+
+### Github
+https://github.com/android-cn/android-dev-com
+
+https://github.com/android-cn/android-dev-cn
