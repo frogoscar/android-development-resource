@@ -6,6 +6,8 @@ https://corner.squareup.com/2014/10/advocating-against-android-fragments.html
 
 http://antonioleiva.com/mvp-android/
 
+https://riggaroo.co.za/constraintlayout-101-new-layout-builder-android-studio/
+
 ####Design Pattern
 
 https://github.com/iluwatar/java-design-patterns
@@ -38,6 +40,12 @@ https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg
 ###Performance
 
 https://classroom.udacity.com/courses/ud825/
+
+###Optimization
+https://riggaroo.co.za/android-reduce-the-size-of-your-apk-files/
+
+###Test
+https://riggaroo.co.za/introduction-automated-android-testing/
 
 ###Source Code
 
