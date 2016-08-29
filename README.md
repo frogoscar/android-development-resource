@@ -81,6 +81,7 @@ https://www.zhihu.com/question/26417244
 http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/
 
 ###Tutorials
+http://guides.codepath.com/android
 
 https://developer.android.com/training/index.html
 
