@@ -84,6 +84,8 @@ http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/
 ###Tutorials
 http://guides.codepath.com/android
 
+https://developer.android.com/guide/index.html
+
 https://developer.android.com/training/index.html
 
 http://www.vogella.com/tutorials/android.html
