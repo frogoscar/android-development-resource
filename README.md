@@ -8,7 +8,7 @@
 
 >辛苦收集的中外精彩资源。 觉得好, 记得 Star，Fork。
 
-- 问：为什么一定要看Google Android官方开发主页？
+- 问：为什么一定要看 Google Android 官方开发主页？
 - 答：因为这里是最实时的更新所在。其他书籍, 即使写得再好, 也不如官方文档权威, 而且内容有过期的困扰。
 
 但你也许会说 : "我英语不好, 看不懂官方文档。怎么办?"
@@ -24,10 +24,6 @@
 
 #### 大牛或作者博客，或自媒体
 ***
-
-**StormZhang的博客 (Android大牛，薄荷公司项目经理，段子手。微信公众号: AndroidDeveloper )**
-
-http://stormzhang.com
 
 **张鸿洋的博客 (Android大牛，CSDN博客专家，2016 CSDN博客之星第一名。微信公众号: hongyangAndroid )**
 
